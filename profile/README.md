@@ -1,4 +1,6 @@
-## Welcome to the ProjectPro 365 Preview. This area is for licensed clients & users of ProjectPro. If you are interested in a trial or demo of ProjectPro, please contact DynamicsSmartz at sales@dynamicssmartz.com 👋
+## Welcome to the ProjectPro 365 Preview. This area is for licensed clients & users of ProjectPro. 
+
+## If you are interested in a trial or demo of ProjectPro, please contact DynamicsSmartz at sales@dynamicssmartz.com
 
 <!--
 
